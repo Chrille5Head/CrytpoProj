@@ -10,6 +10,7 @@
                 "./src/caesar.c",
                 "./src/stringfunction.c",
                 "./src/vigenere.c",
+                "./src/de_and_encryption.c",
                 "-o",
                 "crypto"
             ],
