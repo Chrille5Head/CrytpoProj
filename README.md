@@ -1,7 +1,8 @@
 Program written in C
 
-Takes CLI input of MODE, ALGORITHM, TEXT, KEY such as
-'E'ncrypt - 'D'ecrypt, 'C'aesar - 'V'igenere, TEXT and KEY(for Vigenere)
+Takes CLI input of / MODE / ALGORITHM / TEXT/ KEY / such as
+
+/ 'E'ncrypt - 'D'ecrypt / 'C'aesar - 'V'igenere / TEXT / KEY(for Vigenere) /
 
 Program will convert any character or string input into full upper case, reducing input errors, however keyword is still case sensitive.
 
