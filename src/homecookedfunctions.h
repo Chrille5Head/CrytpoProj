@@ -10,8 +10,6 @@ char *vigenere_encrypt(char *plaintext, char *key);
 char *vigenere_decrypt(char *ciphertext, char *key);
 
 //String functions
-char *strip_newline(char *text);
-int check_if_char(char *text);
 void to_uppercase(char *text);
 
 #endif
